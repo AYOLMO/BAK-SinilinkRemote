@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">模式</string>
+    <string name="please_wait">请稍后</string>
+    <string name="connect">连接功放</string>
+    <string name="status_default">请点击下方按钮连接您的功放</string>
+    <string name="scanning">正在扫描功放…</string>
+    <string name="multiple_found">发现多个功放，请选择要连接的设备</string>
+    <string name="unknown_device">未知设备</string>
+    <string name="scan_failed">扫描失败（错误码 %1$d）</string>
+    <string name="scan_unavailable">无法启动蓝牙扫描</string>
+    <string name="not_found">未找到功放，请确认已开机且蓝牙已打开</string>
+    <string name="found_device">发现 %1$s（%2$s）</string>
+    <string name="connecting">正在连接 %1$s…</string>
+    <string name="connect_failed">连接失败：%1$s</string>
+    <string name="need_permission">需要蓝牙权限才能连接功放</string>
+    <string name="no_bluetooth">此设备不支持蓝牙</string>
+    <string name="btn_aux">内部音频</string>
+    <string name="btn_bt">蓝牙模式</string>
+    <string name="switched_aux">已切换到内部音频</string>
+    <string name="switched_bt">已切换到蓝牙模式</string>
+    <string name="connection_lost">连接已断开，请返回重新连接</string>
+    <string name="bt_off">蓝牙未开启，请在系统提示中开启蓝牙</string>
+    <string name="scan_retry">未找到功放，正在重新扫描…</string>
+    <string name="retry_permission">重新授权</string>
+</resources>
